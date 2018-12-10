@@ -18,7 +18,7 @@ module.exports = {
 
   // Manifest and Progress color
   // See: https://developers.google.com/web/fundamentals/web-app-manifest/
-  themeColor: '#CC0033',
+  themeColor: '#fff',
   backgroundColor: '#2b2e3c',
 
   // Settings for typography.js
